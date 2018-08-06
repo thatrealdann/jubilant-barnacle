@@ -15,7 +15,7 @@ The following variable's value can be changed based on your need
 epochs = 5000 # Is the number of generation, more network train results in better images
 ``` 
 
-## How to run?
+## Usage Guide
 
 - Create a folder called "Images" under the same root as "Source.py".
 - ***[Optional]*** Modify epochs based on your need.
