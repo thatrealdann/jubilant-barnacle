@@ -12,12 +12,12 @@ Run the following command in terminal / CMD
 
 The following variable's value can be changed based on your need
 ```python
-epochs = 5000 # Is the number of generation, more network train results in better images
+epochs = 5000 # Is the number of generations, more network train results in better images
 ``` 
 
 ## How to use
 
-- Create a folder called "Images" under the same root as "Source.py".
+- Create a folder called "images" under the same root as "source.py".
 - ***[Optional]*** Modify epochs based on your need.
 - Run the code! Happy **GANing**!!
 
